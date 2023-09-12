@@ -1,5 +1,5 @@
 import reactLogo from '../assets/react.svg'
-import Rodape from './Rodape'
+import Rodape from '../../components/Rodape'
 
 export default function Secao(props) {
   {
